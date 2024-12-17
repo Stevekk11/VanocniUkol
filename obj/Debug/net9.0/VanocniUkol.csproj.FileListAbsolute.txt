@@ -1,0 +1,14 @@
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\bin\Debug\net9.0\VanocniUkol.exe
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\bin\Debug\net9.0\VanocniUkol.deps.json
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\bin\Debug\net9.0\VanocniUkol.runtimeconfig.json
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\bin\Debug\net9.0\VanocniUkol.dll
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\bin\Debug\net9.0\VanocniUkol.pdb
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.AssemblyInfoInputs.cache
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.AssemblyInfo.cs
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.csproj.CoreCompileInputs.cache
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.dll
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\refint\VanocniUkol.dll
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.pdb
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\VanocniUkol.genruntimeconfig.cache
+C:\Users\Monika\OneDrive - SPŠE Ječná 30, Praha 2\RiderProjects\VanocniUkol\obj\Debug\net9.0\ref\VanocniUkol.dll

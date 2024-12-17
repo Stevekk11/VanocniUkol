@@ -1,0 +1,23 @@
+{
+  "Node1": {
+    "bodyText": "Welcome to the dialogue! What would you like to do?",
+    "playerChoices": {
+      "Go to Middle": "Node2",
+      "End the Conversation": "Node3"
+    },
+    "isTerminal": false
+  },
+  "Node2": {
+    "bodyText": "You are in the middle of the conversation. Where would you like to go next?",
+    "playerChoices": {
+      "Go back to Start": "Node1",
+      "End the Conversation": "Node3"
+    },
+    "isTerminal": false
+  },
+  "Node3": {
+    "bodyText": "The conversation ends here.",
+    "playerChoices": {},
+    "isTerminal": true
+  }
+}
